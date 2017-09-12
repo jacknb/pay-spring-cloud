@@ -4,4 +4,5 @@
 主要实现服务注册功能。
 
 1.启动Application.java中的main方法。
-2.在浏览器中输入http://localhost:8761/
+2.在浏览器中输入http://localhost:8761/。
+3.出现如下结果表示成功。
