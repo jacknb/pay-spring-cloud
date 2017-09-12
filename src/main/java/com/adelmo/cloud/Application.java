@@ -2,13 +2,13 @@ package com.adelmo.cloud;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
-import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 /**
  * Created by znb on 17-9-8.
  */
 
-@EnableEurekaClient
+@EnableEurekaServer
 @SpringBootApplication
 public class Application {
 
