@@ -21,6 +21,7 @@
 target
 target/*
 
+.idea
 .idea/*
 pay-spring-cloud.iml
 
